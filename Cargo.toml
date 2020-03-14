@@ -10,4 +10,4 @@ repository = "https://github.com/gifnksm/emscripten-sys"
 build = "build.rs"
 
 [build-dependencies]
-bindgen = "0.24.0"
+bindgen = "0.53.2"
